@@ -1,0 +1,4 @@
+[package]
+name = "easy_table"
+version = "0.1.0"
+authors = ["Kelly Stannard <kelly.stannard@caspersleep.com>"]
